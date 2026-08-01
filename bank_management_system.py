@@ -1,7 +1,7 @@
 print("WELCOME TO BANK MANAGEMENT SYSTEM ".center(50,"*"))
 info={}
 def menu1():
-    menu=["1) Creat account","2) Deposit ","3) Withdrawal","4) Account details","5) Exit"]
+    menu=["====================","1) Creat account","2) Deposit ","3) Withdrawal","4) Account details","5) Exit","==============="]
     for i in menu:
         print(i,end="\n")
 
